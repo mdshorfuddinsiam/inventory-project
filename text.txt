@@ -1,0 +1,17 @@
+[============ 
+* jokhon form er shob field er data (array) akare insert krte hoy tokhon...shei data (for loop) er maddhome (database) er moddhe insert krte hoy ------ (purchase from data)
+=============]
+
+ 
+* (credit customer / paid customer) er list dekhar shomoy (invoice status) ta check kore nah....jar karone (stock 0) othoso (quantity 2,3,...) diye invoice toire kore rakhse...tahole (credit customer) taka ai obosthay paid krle ki hbe??....r (paid customer) er list a theke ki krbe (--done--)
+
+* ek e (puchase_no) a ki ekadhik product kina jay naki?? (--done--)
+* naki (puchase_no) unique hote hobe?? (--done--)
+
+* (login) fail hoile (error msg) kivabe dekhabo (--done--)
+
+* (purchase form) er validation ta kivabe krbo?? (--done--)
+* (invoice form) er validation ta kivabe krbo?? (--done--)
+
+* kono (ekok product) er upor discount dile ta krbo kivabe??
+* (parcent) onujayi discount dibo kivabe??
